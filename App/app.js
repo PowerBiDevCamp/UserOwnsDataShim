@@ -1,6 +1,6 @@
 ﻿
-let clientId = "11111111-1111-1111-1111-111111111111";
-let tenant = "MY_DOMAIN.onMicrosoft.com";
+let clientId = "731abfb6-e46b-4af4-985b-41662e2f2fc7";
+let tenant = "powerbidevcamp.net";
 let authority = "https://login.microsoftonline.com/" + tenant;
 
 const msalConfig = {

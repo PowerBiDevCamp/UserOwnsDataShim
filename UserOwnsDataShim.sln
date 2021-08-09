@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppOwnsDataShim", "AppOwnsDataShim\AppOwnsDataShim.csproj", "{BB8FABB6-F77C-4575-9109-C683738540DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserOwnsDataShim", "UserOwnsDataShim.csproj", "{F1BA264B-21C6-4CA1-AA05-C3F74CB5DCB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BB8FABB6-F77C-4575-9109-C683738540DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BB8FABB6-F77C-4575-9109-C683738540DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BB8FABB6-F77C-4575-9109-C683738540DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BB8FABB6-F77C-4575-9109-C683738540DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1BA264B-21C6-4CA1-AA05-C3F74CB5DCB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1BA264B-21C6-4CA1-AA05-C3F74CB5DCB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1BA264B-21C6-4CA1-AA05-C3F74CB5DCB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1BA264B-21C6-4CA1-AA05-C3F74CB5DCB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C7809AD1-4AF2-4C89-8114-3C0F97B70B80}
+		SolutionGuid = {459EC6BB-8E6F-4D8C-8367-315141D0067B}
 	EndGlobalSection
 EndGlobal

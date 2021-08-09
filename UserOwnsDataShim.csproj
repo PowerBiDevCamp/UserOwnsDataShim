@@ -7,16 +7,16 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{BB8FABB6-F77C-4575-9109-C683738540DB}</ProjectGuid>
+    <ProjectGuid>{F1BA264B-21C6-4CA1-AA05-C3F74CB5DCB0}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AppOwnsDataShim</RootNamespace>
-    <AssemblyName>AppOwnsDataShim</AssemblyName>
+    <RootNamespace>UserOwnsDataShim</RootNamespace>
+    <AssemblyName>UserOwnsDataShim</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
-    <IISExpressSSLPort>44319</IISExpressSSLPort>
+    <IISExpressSSLPort>44347</IISExpressSSLPort>
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
@@ -103,9 +103,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>63392</DevelopmentServerPort>
+          <DevelopmentServerPort>56990</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>https://localhost:44319/</IISUrl>
+          <IISUrl>https://localhost:44347/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

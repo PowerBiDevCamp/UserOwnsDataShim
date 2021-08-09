@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AppOwnsDataShim")]
+[assembly: AssemblyTitle("UserOwnsDataShim")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AppOwnsDataShim")]
+[assembly: AssemblyProduct("UserOwnsDataShim")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("bb8fabb6-f77c-4575-9109-c683738540db")]
+[assembly: Guid("f1ba264b-21c6-4ca1-aa05-c3f74cb5dcb0")]
 
 // Version information for an assembly consists of the following four values:
 //
